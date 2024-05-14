@@ -67,4 +67,6 @@ To know more about its features, check out our [website](https://scaffoldeth.io)
 
 ## For Docker
 
-`sudo docker build -t endaosment .`
+1. `sudo docker build -t endaosment .`
+2. `docker run -dp 127.0.0.1:3000:3000 endaosment`
+3. 
